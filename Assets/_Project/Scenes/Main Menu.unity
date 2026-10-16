@@ -891,7 +891,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 10a0b8a80b73e9948bac60d65f1f4b3c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::MainMenuManager
-  levelSceneName: Golf Game
+  levelSceneName: Golf Level
 --- !u!4 &1282322943
 Transform:
   m_ObjectHideFlags: 0
